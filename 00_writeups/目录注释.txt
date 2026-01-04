@@ -1,0 +1,6 @@
+00_writeups/
+├─ 00_inbox/        # 只收藏/只复现 WP（可能没完全懂）
+├─ 10_working/      # 正在做/正在写
+├─ 20_done/         # 已跑通 exp + 写完 README
+├─ 30_polished/     # 抽象出套路/补齐坑/可复用
+└─ 99_archive/      # 老东西/重复题/不想看但不删
