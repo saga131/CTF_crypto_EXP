@@ -1,0 +1,2 @@
+﻿source: 
+https://github.com/k3sero/Blog_Content/tree/main/Competiciones_Internacionales_Writeups/2025/L3AKCTF2025/Cripto/Dumber
